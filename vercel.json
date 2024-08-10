@@ -1,8 +1,8 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/index.html" },
     { "source": "/solution", "destination": "/solution.html" },
-    { "source": "/vision", "destination": "/vision.html" }
-   
+    { "source": "/vision", "destination": "/vision.html" },
+    { "source": "/program", "destination": "/program.html" },
+    { "source": "/get-started", "destination": "/solution.html" }
   ]
 }
